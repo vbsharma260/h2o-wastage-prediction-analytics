@@ -25,19 +25,19 @@ A web-based application to monitor and analyze water wastage using an interactiv
 ## Screenshots
 
 ### Login Page
-![Login](https://raw.githubusercontent.com/vbsharma260/h2o-wastage-prediction-analytics/main/screenshots/login.PNG)
+![Login](https://raw.githubusercontent.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics/main/screenshots/login.PNG)
 
 ### Register Page
-![Register](https://raw.githubusercontent.com/vbsharma260/h2o-wastage-prediction-analytics/main/screenshots/registre.PNG)
+![Register](https://raw.githubusercontent.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics/main/screenshots/registre.PNG)
 
 ### Add Area Page
-![Add Area](https://raw.githubusercontent.com/vbsharma260/h2o-wastage-prediction-analytics/main/screenshots/addArea.png)
+![Add Area](https://raw.githubusercontent.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics/main/screenshots/addArea.png)
 
 ### Complaint Page
-![Complaint](https://raw.githubusercontent.com/vbsharma260/h2o-wastage-prediction-analytics/main/screenshots/complain.PNG)
+![Complaint](https://raw.githubusercontent.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics/main/screenshots/complain.PNG)
 
 ### Feedback Page
-![Feedback](https://raw.githubusercontent.com/vbsharma260/h2o-wastage-prediction-analytics/main/screenshots/feedback.PNG)
+![Feedback](https://raw.githubusercontent.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics/main/screenshots/feedback.PNG)
 ## How to Run
 - python -m pip install flask flask_sqlalchemy pymysql
 - python app.py

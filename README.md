@@ -31,8 +31,8 @@ A web-based application to monitor and analyze water wastage using an interactiv
 - feedback
 
 ## How to Run
-python -m pip install flask flask_sqlalchemy pymysql
-python app.py
+- python -m pip install flask flask_sqlalchemy pymysql
+- python app.py
 
 
 ## Author

@@ -23,12 +23,12 @@ A web-based application to monitor and analyze water wastage using an interactiv
 - Table visualization
 
 ## Screenshots
-login
-register
-index
-addArea
-complain
-feedback
+- login
+- register
+- index
+- addArea
+- complain
+- feedback
 
 ## How to Run
 python -m pip install flask flask_sqlalchemy pymysql
